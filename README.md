@@ -73,4 +73,4 @@ jupyter notebook notebooks/
 
 ## License
 
-The code is under the [MIT License](LICENSE); the text and figures are under [CC BY 4.0](LICENSE-TEXT.md): reuse them, with credit to ProvenDecisions and a link to the page.
+The code is under the [MIT License](LICENSE); the text and figures are under [CC BY 4.0](LICENSE-TEXT.md): reuse them, with credit to ProvenDecisions and a link to the page. The books and their samples are not covered: all rights reserved.
