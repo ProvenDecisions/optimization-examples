@@ -109,6 +109,10 @@ Circles and locations, can design, ordering, consumer choice, power and the fast
 - [optimization-monthly](https://github.com/ProvenDecisions/optimization-monthly): the month's most eventful Daily Updates in optimization
 - [provendecisions-api](https://github.com/ProvenDecisions/provendecisions-api): call the solver from your code or AI assistant
 
+## 💬 Questions? Join the discussion
+
+Stuck on a notebook, or modelling your own problem? Ask in [ProvenDecisions Discussions](https://github.com/orgs/ProvenDecisions/discussions), one board per topic.
+
 ## Books
 
 Our lecture notes as PDFs; read a free sample first.
