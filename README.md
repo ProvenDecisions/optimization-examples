@@ -1,8 +1,10 @@
 # Optimization examples in Python (cvxpy), solved and checked
 
-48 classic optimization problems (linear, integer, quadratic and convex), each as a Jupyter notebook: the problem in words, the model with a note on every line, runnable [cvxpy](https://www.cvxpy.org/) code and its real output from open-source solvers (HiGHS, Clarabel, SCIP) or NumPy. Every answer was checked: feasibility of every constraint and a dual or KKT certificate.
+48 classic optimization problems (linear, integer, quadratic and convex) as Jupyter notebooks: the problem in words, the model with a note on every line, runnable [cvxpy](https://www.cvxpy.org/) code and its real output from open-source solvers (HiGHS, Clarabel, SCIP) or NumPy. Every answer was checked: feasibility of every constraint and a dual or KKT certificate. **New notebooks, tutorials and a digest of the month in optimization are added every month:** watch or star the repository to hear about them.
 
 Made by [ProvenDecisions](https://proven-decisions.ai/?ref=github), where each example has a step-by-step walkthrough and you can solve your own problem from typed math, LaTeX, a photo or speech.
+
+## Notebooks
 
 | # | Example | Class | Run | Walkthrough |
 |---:|---|---|---|---|
@@ -55,6 +57,13 @@ Made by [ProvenDecisions](https://proven-decisions.ai/?ref=github), where each e
 | 47 | [Consumer's best bundle (utility maximization)](notebooks/consumer-utility-maximization.ipynb) | Conic (convex) | [Open in Colab](https://colab.research.google.com/github/ProvenDecisions/optimization-examples/blob/main/notebooks/consumer-utility-maximization.ipynb) | [walkthrough](https://proven-decisions.ai/examples/consumer-utility-maximization?ref=github) |
 | 48 | [Water-filling power allocation](notebooks/water-filling.ipynb) | Conic (convex) | [Open in Colab](https://colab.research.google.com/github/ProvenDecisions/optimization-examples/blob/main/notebooks/water-filling.ipynb) | [walkthrough](https://proven-decisions.ai/examples/water-filling?ref=github) |
 
+## Books
+
+Our lecture notes as PDFs; read a free sample first.
+
+- **[Convex Optimization: Concise Lecture Notes](https://proven-decisions.ai/books/convex-notes?ref=github)**: theory, algorithms and applications, about 175 pages. [Free sample: Chapter 1](https://proven-decisions.ai/books/convex-notes/sample.pdf?ref=github)
+- **[Convex Optimization: Concise Lecture Notes, Solutions Manual](https://proven-decisions.ai/books/convex-solutions?ref=github)**: worked solutions to the exercises, about 100 pages. [Free sample: the solutions to Chapter 1](https://proven-decisions.ai/books/convex-solutions/sample.pdf?ref=github)
+
 ## Run locally
 
 ```
@@ -64,4 +73,4 @@ jupyter notebook notebooks/
 
 ## License
 
-The code is under the [MIT License](LICENSE); the text and figures are under [CC BY 4.0](LICENSE-TEXT.md): reuse them, with credit to ProvenDecisions and a link to the example's page.
+The code is under the [MIT License](LICENSE); the text and figures are under [CC BY 4.0](LICENSE-TEXT.md): reuse them, with credit to ProvenDecisions and a link to the page.
